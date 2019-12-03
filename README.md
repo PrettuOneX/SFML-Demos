@@ -1,2 +1,3 @@
 # SFML-Demos
-A lot of examples of SFML source codes
+
+You can read more about installation SFML in your environment on the official website https://www.sfml-dev.org/tutorials/2.5/
